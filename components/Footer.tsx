@@ -13,7 +13,7 @@ const Footer = () => {
             - Ravi
           </div>
           <h1 className="text-[14px] mt-[0.5rem] text-white opacity-70">
-            At times, life may not unfold as you envisioned, and you may encounter unexpected challenges or detours. But don&apos;t lose hope, because these unplanned paths might lead to the most significant and rewarding moments of your journey. Embrace the unexpected; it could be the start of something extraordinary.
+            At times, life may not unfold as you envisioned, and you may encounter unexpected challenges or detours. But don &apos; t lose hope, because these unplanned paths might lead to the most significant and rewarding moments of your journey. Embrace the unexpected; it could be the start of something extraordinary.
           </h1>
           <p className="mt-[1.3rem] text-yellow-300 underline font-semibold">
             <a href="mailto:ravindyadivanjani@gmail.com">ravindyadivanjani@gmail.com</a>

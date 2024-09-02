@@ -8,7 +8,7 @@ const Contact = () => {
 
   useEffect(() => {
     if (window.location.hash === '#contact') {
-      router.replace('');
+      router.replace("");
     }
   }, [router]);
 
@@ -52,7 +52,7 @@ const Contact = () => {
               Into Reality
             </h1>
             <p className="text-[15px] text-white mt-[1rem] opacity-75">
-              I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+              I&aposm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
               Whether you have a question, a project in mind, or just want to say hello, feel free to reach out!
             </p>
           </div>
